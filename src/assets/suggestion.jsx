@@ -3,9 +3,9 @@ import React from 'react';
 const suggestedUsers = [
   {
     id: 1,
-    username: 'emma_wilson',
-    profile: 'https://i.pravatar.cc/100?img=44',
-    followedBy: 'Followed by other users',
+    username: 'Ashlin',
+    profile: 'src/assets/images.ashlin.jpg',
+    followedBy: 'Followed by Akshaya and Agaliya',
   },
  
 ];

@@ -1,10 +1,12 @@
 import React from 'react';
+import profilePic from './images.angu.jpg';
+import profilepic from './photo-1519066742-c63a92e02298.avif';
 
 const posts = [
   {
     id: 1,
-    username: 'john_doe',
-    profile: 'https://i.pravatar.cc/100?img=12',
+    username: 'Agaliya',
+    profile: profilePic,
     image:
       'https://images.unsplash.com/photo-1433086966358-54859d0ed716?w=600',
     likes: 120,
@@ -12,8 +14,8 @@ const posts = [
   },
   {
     id: 2,
-    username: 'alex_morgan',
-    profile: 'https://i.pravatar.cc/100?img=11',
+    username: 'Akshaya',
+    profile: profilepic,
     image:
       'https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=600',
     likes: 189,
